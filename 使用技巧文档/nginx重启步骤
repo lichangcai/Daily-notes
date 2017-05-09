@@ -1,0 +1,16 @@
+1.cd /etc
+2.cd nginx
+3.vim nginx.conf(这步是添加修改的，需要才用)
+4.cd sites-enabled/
+5.ls
+6.vim default
+7.service nginx restart
+
+
+
+
+
+直接命令行重启：/etc/init.d/nginx start
+
+直接命令行停止：/etc/init.d/nginx stop
+

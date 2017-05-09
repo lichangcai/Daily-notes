@@ -1,0 +1,2 @@
+1.新建分支：git checkout  新分支名；（首先要git  status查看原本的分支有没有是干净的 ）
+
