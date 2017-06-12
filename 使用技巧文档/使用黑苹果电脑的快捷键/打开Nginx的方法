@@ -1,0 +1,2 @@
+1.brew service restart nginx
+2.sh nginx
