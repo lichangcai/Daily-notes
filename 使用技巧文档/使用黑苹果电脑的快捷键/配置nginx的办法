@@ -4,3 +4,4 @@
 2.编辑Nginx
 3.配置#vim /usr/local/etc/nginx/nginx.conf
 4从新启动：#brew services restart nginx
+(按o进行编辑模式；按esc退出；然后按那个shift加“：”如果是wq的话的就是保存；如果是!q的话就是不保存退出)
