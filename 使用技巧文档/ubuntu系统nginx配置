@@ -1,0 +1,5 @@
+/$ cd etc/nginx/
+然后
+ls
+然后
+sudo vim nginx.conf
