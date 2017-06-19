@@ -3,3 +3,6 @@
 ls
 然后
 sudo vim nginx.conf
+
+
+然后进行重启nginx(service nginx restart)
