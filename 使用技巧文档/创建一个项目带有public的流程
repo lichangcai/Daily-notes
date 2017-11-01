@@ -1,0 +1,4 @@
+mkdir 一个大的文件夹。
+express -e 这后面是自己起的项目名称
+npm install 
+Bower install
